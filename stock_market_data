@@ -1,0 +1,495 @@
+0?AAPL?Apple Inc.?147.11?2413545390080?
+1?MSFT?Microsoft Corporation?261.12?1960483618816?
+2?GOOG?Alphabet Inc.?2330.31?1546680401920?
+3?GOOGL?Alphabet Inc.?2321.01?1540688838656?
+4?AMZN?"Amazon.com, Inc."?2261.1?1146712358912?
+5?TSLA?"Tesla, Inc."?769.59?772868472832?
+6?BRK-B?Berkshire Hathaway Inc. New?310.36?694979788800?
+7?FB?"Meta Platforms, Inc."?198.62?552513175552?
+8?JNJ?Johnson & Johnson?176.85?465575346176?
+9?UNH?UnitedHealth Group Incorporated?485.4?457174482944?
+10?NVDA?NVIDIA Corporation?177.06?441233506304?
+11?WMT?Walmart Inc.?148.05?410672955392?
+12?XOM?Exxon Mobil Corporation?88.86?378604027904?
+13?PG?Procter & Gamble Company (The)?153.62?371752730624?
+14?JPM?JP Morgan Chase & Co.?119.09?360645001216?
+15?MA?Mastercard Incorporated?332.8?326994952192?
+16?CVX?Chevron Corporation?167.87?323601301504?
+17?HD?"Home Depot, Inc. (The)"?296.03?309126365184?
+18?BAC?Bank of America Corporation?35.17?287834079232?
+19?KO?Coca-Cola Company (The)?65.72?283872296960?
+20?PFE?"Pfizer, Inc."?49.92?280194482176?
+21?LLY?Eli Lilly and Company?291.63?278970925056?
+22?ABBV?AbbVie Inc.?153.5?271251390464?
+23?AVGO?Broadcom Inc.?588.24?242868994048?
+24?PEP?"Pepsico, Inc."?173.72?240193961984?
+25?MRK?"Merck & Company, Inc."?90.41?228370235392?
+26?COST?Costco Wholesale Corporation?497.27?220505423872?
+27?TMO?Thermo Fisher Scientific Inc?541.42?213345468416?
+28?CSCO?"Cisco Systems, Inc."?49.56?209024761856?
+29?VZ?Verizon Communications Inc.?48.18?202248077312?
+30?DIS?Walt Disney Company (The)?107.33?195089448960?
+31?ADBE?Adobe Inc.?405.45?192913113088?
+32?ABT?Abbott Laboratories?109.88?192393281536?
+33?ORCL?Oracle Corporation?71.17?190055923712?
+34?CMCSA?Comcast Corporation?41.48?189518807040?
+35?MCD?McDonald's Corporation?245.04?183104913408?
+36?ACN?Accenture plc?286.77?181786066944?
+37?NKE?"Nike, Inc."?113.01?178874482688?
+38?DHR?Danaher Corporation?249.19?178065457152?
+39?INTC?Intel Corporation?43.6?177321197568?
+40?WFC?Wells Fargo & Company?42.64?170015490048?
+41?BMY?Bristol-Myers Squibb Company?75.8?168248721408?
+42?CRM?"Salesforce, Inc."?166.91?164406345728?
+43?PM?Philip Morris International Inc?104.43?162579759104?
+44?LIN?Linde plc?308.77?158261608448?
+45?TMUS?"T-Mobile US, Inc."?126.33?157792485376?
+46?TXN?Texas Instruments Incorporated?169.74?156759310336?
+47?UPS?"United Parcel Service, Inc."?178.04?154742046720?
+48?QCOM?QUALCOMM Incorporated?134.93?151121592320?
+49?UNP?Union Pacific Corporation?230.76?148350074880?
+50?MS?Morgan Stanley?80.54?144521789440?
+51?T?AT&T Inc.?19.84?141677445120?
+52?MDT?Medtronic plc.?102.67?138045980672?
+53?RTX?Raytheon Technologies Corporati?91.92?137584017408?
+54?AMGN?Amgen Inc.?243.4?137098936320?
+55?NEE?"NextEra Energy, Inc."?69.8?136957378560?
+56?COP?ConocoPhillips?102.91?135733149696?
+57?HON?Honeywell International Inc.?193.53?133230493696?
+58?LOW?"Lowe's Companies, Inc."?194.0?130706923520?
+59?CVS?CVS Health Corporation?97.48?128679452672?
+60?SCHW?Charles Schwab Corporation (The?65.61?124042264576?
+61?AXP?American Express Company?158.75?122960773120?
+62?LMT?Lockheed Martin Corporation?435.17?120013791232?
+63?IBM?International Business Machines?133.6?119748354048?
+64?ANTM?"Anthem, Inc."?486.45?118068715520?
+65?AMD?"Advanced Micro Devices, Inc."?95.12?114867863552?
+66?DE?Deere & Company?366.69?112723075072?
+67?CAT?"Caterpillar, Inc."?204.33?110530682880?
+68?AMT?American Tower Corporation (REI?232.66?105956630528?
+69?TGT?Target Corporation?219.73?105277915136?
+70?INTU?Intuit Inc.?371.76?105270173696?
+71?GS?"Goldman Sachs Group, Inc. (The)"?306.99?102405103616?
+72?AMAT?"Applied Materials, Inc."?111.86?99389071360?
+73?MO?"Altria Group, Inc."?53.04?97433952256?
+74?PLD?"Prologis, Inc."?128.35?94892621824?
+75?C?"Citigroup, Inc."?47.64?94530617344?
+76?BLK?"BlackRock, Inc."?615.33?93479084032?
+77?PYPL?"PayPal Holdings, Inc."?78.83?92619735040?
+78?MDLZ?"Mondelez International, Inc."?66.38?92598099968?
+79?NOW?"ServiceNow, Inc."?452.65?90077347840?
+80?CB?Chubb Limited?206.54?88965242880?
+81?SYK?Stryker Corporation?233.27?87998775296?
+82?ADP?"Automatic Data Processing, Inc."?208.79?87980761088?
+83?EL?"Estee Lauder Companies, Inc. (T"?240.39?86527664128?
+84?BKNG?Booking Holdings Inc. Common St?2101.89?86303178752?
+85?CI?Cigna Corporation?259.19?85902827520?
+86?MMM?3M Company?149.3?84960509952?
+87?CHTR?"Charter Communications, Inc."?471.39?84515987456?
+88?DUK?Duke Energy Corporation (Holdin?109.3?84089192448?
+89?ADI?"Analog Devices, Inc."?158.74?83391045632?
+90?NFLX?"Netflix, Inc."?187.64?83115515904?
+91?GE?General Electric Company?75.05?82415411200?
+92?SPGI?S&P Global Inc.?336.85?81180852224?
+93?MMC?"Marsh & McLennan Companies, Inc"?159.95?80757956608?
+94?MU?"Micron Technology, Inc."?71.92?80562626560?
+95?ISRG?"Intuitive Surgical, Inc."?223.69?79910346752?
+96?GILD?"Gilead Sciences, Inc."?62.37?78235680768?
+97?ZTS?Zoetis Inc.?165.33?78221926400?
+98?SO?Southern Company (The)?73.65?78054268928?
+99?CCI?Crown Castle International Corp?176.49?76279513088?
+100?BA?Boeing Company (The)?127.2?74755309568?
+101?CSX?CSX Corporation?33.43?74147069952?
+102?EOG?"EOG Resources, Inc."?124.28?72714985472?
+103?USB?U.S. Bancorp?48.6?72064073728?
+104?CME?CME Group Inc.?200.1?71915741184?
+105?SHW?Sherwin-Williams Company (The)?273.33?71666032640?
+106?NOC?Northrop Grumman Corporation?452.83?71247364096?
+107?BDX?"Becton, Dickinson and Company"?248.44?70816088064?
+108?REGN?"Regeneron Pharmaceuticals, Inc."?645.52?69421162496?
+109?LRCX?Lam Research Corporation?491.92?69261852672?
+110?TJX?"TJX Companies, Inc. (The)"?57.19?68220805120?
+111?D?"Dominion Energy, Inc."?83.61?67716407296?
+112?HCA?"HCA Healthcare, Inc."?214.92?66845065216?
+113?PNC?"PNC Financial Services Group, I"?157.44?66540597248?
+114?CL?Colgate-Palmolive Company?78.4?66079363072?
+115?WM?"Waste Management, Inc."?157.9?66052091904?
+116?ITW?Illinois Tool Works Inc.?207.64?65174249472?
+117?PXD?Pioneer Natural Resources Compa?261.89?63936258048?
+118?FISV?"Fiserv, Inc."?96.17?63494508544?
+119?GD?General Dynamics Corporation?226.31?63190958080?
+120?PGR?Progressive Corporation (The)?107.82?63010009088?
+121?VRTX?Vertex Pharmaceuticals Incorpor?246.72?62729052160?
+122?AON?Aon plc?280.6?61825159168?
+123?TFC?Truist Financial Corporation?46.31?61818757120?
+124?EW?Edwards Lifesciences Corporatio?97.55?60903784448?
+125?ATVI?"Activision Blizzard, Inc"?77.74?60783427584?
+126?NSC?Norfolk Southern Corporation?249.32?60670775296?
+127?OXY?Occidental Petroleum Corporatio?64.08?59849502720?
+128?EQIX?"Equinix, Inc."?659.8?59409182720?
+129?MPC?Marathon Petroleum Corporation?95.88?59022573568?
+130?FIS?Fidelity National Information S?96.5?58762424320?
+131?SLB?Schlumberger N.V.?40.74?57143148544?
+132?BSX?Boston Scientific Corporation?39.66?56515100672?
+133?HUM?Humana Inc.?438.89?56412291072?
+134?ETN?"Eaton Corporation, PLC"?141.33?56334139392?
+135?FDX?FedEx Corporation?211.29?55985295360?
+136?MRNA?"Moderna, Inc."?137.91?55915610112?
+137?PSA?Public Storage?318.53?55855828992?
+138?GM?General Motors Company?38.21?55475568640?
+139?ICE?Intercontinental Exchange Inc.?98.27?55365713920?
+140?KHC?The Kraft Heinz Company?44.29?54212730880?
+141?MAR?Marriott International?166.4?54193651712?
+142?F?Ford Motor Company?13.5?53949239296?
+143?DG?Dollar General Corporation?232.33?53832253440?
+144?MCO?Moody's Corporation?288.96?53717663744?
+145?MET?"MetLife, Inc."?63.42?53346365440?
+146?NEM?Newmont Corporation?65.25?52032634880?
+147?APD?"Air Products and Chemicals, Inc"?233.71?51809767424?
+148?FCX?"Freeport-McMoRan, Inc."?35.04?51455188992?
+149?SRE?DBA Sempra?161.06?51432415232?
+150?KLAC?KLA Corporation?336.42?51008675840?
+151?VLO?Valero Energy Corporation?124.7?50981847040?
+152?DOW?Dow Inc.?67.56?49968320512?
+153?EMR?Emerson Electric Company?83.68?49848094720?
+154?COF?Capital One Financial Corporati?116.46?49567940608?
+155?MCK?McKesson Corporation?324.24?49505611776?
+156?AEP?American Electric Power Company?99.69?49485123584?
+157?AIG?"American International Group, I"?58.56?48622252032?
+158?NXPI?NXP Semiconductors N.V.?181.99?48397148160?
+159?CNC?Centene Corporation?82.32?48033964032?
+160?ADM?Archer-Daniels-Midland Company?85.39?47770669056?
+161?MNST?Monster Beverage Corporation?88.89?47035166720?
+162?KMB?Kimberly-Clark Corporation?139.16?46857539584?
+163?STZ?"Constellation Brands, Inc."?248.92?46672252928?
+164?HSY?The Hershey Company?225.91?46538362880?
+165?DVN?Devon Energy Corporation?68.7?46509899776?
+166?ECL?Ecolab Inc.?161.99?46420992000?
+167?LHX?"L3Harris Technologies, Inc."?236.18?46344417280?
+168?FTNT?"Fortinet, Inc."?281.55?46033424384?
+169?EXC?Exelon Corporation?46.73?45716799488?
+170?ROP?"Roper Technologies, Inc."?430.33?45393358848?
+171?GIS?"General Mills, Inc."?73.1?44094427136?
+172?SYY?Sysco Corporation?84.73?43437342720?
+173?ADSK?"Autodesk, Inc."?197.07?43350077440?
+174?PAYX?"Paychex, Inc."?119.69?43179003904?
+175?ORLY?"O'Reilly Automotive, Inc."?635.62?42827059200?
+176?TRV?"The Travelers Companies, Inc."?172.78?42505433088?
+177?KMI?"Kinder Morgan, Inc."?18.74?42491633664?
+178?SNPS?"Synopsys, Inc."?275.99?42347352064?
+179?WMB?"Williams Companies, Inc. (The)"?34.79?42270896128?
+180?APH?Amphenol Corporation?70.47?42143035392?
+181?RSG?"Republic Services, Inc."?130.89?41504567296?
+182?PSX?Phillips 66?94.6?41453907968?
+183?AZO?"AutoZone, Inc."?2001.11?41291702272?
+184?TEL?TE Connectivity Ltd. New Switze?125.22?40860913664?
+185?CTVA?"Corteva, Inc."?55.47?40432582656?
+186?XEL?Xcel Energy Inc.?74.49?40125972480?
+187?IQV?"IQVIA Holdings, Inc."?208.71?39871959040?
+188?HPQ?HP Inc.?36.78?39822438400?
+189?CDNS?"Cadence Design Systems, Inc."?142.44?39475961856?
+190?KR?Kroger Company (The)?53.39?39255318528?
+191?CTSH?Cognizant Technology Solutions ?73.38?38989656064?
+192?CTAS?Cintas Corporation?375.97?38974554112?
+193?WELL?Welltower Inc.?88.37?38465253376?
+194?SPG?"Simon Property Group, Inc."?116.78?38376128512?
+195?PRU?"Prudential Financial, Inc."?101.19?38249820160?
+196?O?Realty Income Corporation?67.41?38138220544?
+197?HLT?Hilton Worldwide Holdings Inc.?136.59?38070636544?
+198?WBA?"Walgreens Boots Alliance, Inc."?43.55?37624803328?
+199?AFL?AFLAC Incorporated?56.28?37230796800?
+200?DLR?"Digital Realty Trust, Inc."?131.19?37230018560?
+201?MCHP?Microchip Technology Incorporat?67.03?37192998912?
+202?CMG?"Chipotle Mexican Grill, Inc."?1318.28?37090336768?
+203?JCI?Johnson Controls International ?52.21?36773175296?
+204?ALL?Allstate Corporation (The)?128.19?36748996608?
+205?BAX?Baxter International Inc.?73.03?36565610496?
+206?ILMN?"Illumina, Inc."?233.56?36505427968?
+207?MSI?"Motorola Solutions, Inc."?215.29?36361830400?
+208?SBAC?SBA Communications Corporation?334.17?36351348736?
+209?BK?The Bank of New York Mellon Cor?43.46?35890180096?
+210?DLTR?"Dollar Tree, Inc."?159.4?35857985536?
+211?A?"Agilent Technologies, Inc."?119.38?35827486720?
+212?LYB?LyondellBasell Industries NV?106.72?35514707968?
+213?GPN?Global Payments Inc.?122.2?35456450560?
+214?HES?Hess Corporation?114.27?35392503808?
+215?NUE?Nucor Corporation?123.79?35379060736?
+216?EA?Electronic Arts Inc.?124.94?35334033408?
+217?CARR?Carrier Global Corporation?40.19?34828050432?
+218?PEG?Public Service Enterprise Group?68.58?34678439936?
+219?PH?Parker-Hannifin Corporation?265.35?34101456896?
+220?ED?"Consolidated Edison, Inc."?95.4?33747654656?
+221?MSCI?MSCI Inc?408.14?33649799168?
+222?IFF?International Flavors & Fragran?132.16?33640933376?
+223?AJG?Arthur J. Gallagher & Co.?162.02?33583181824?
+224?ANET?"Arista Networks, Inc."?108.65?33388144640?
+225?DD?"DuPont de Nemours, Inc."?64.14?33231190016?
+226?YUM?"Yum! Brands, Inc."?112.83?33074196480?
+227?TT?Trane Technologies plc?137.98?32775768064?
+228?TSN?"Tyson Foods, Inc."?90.0?32677289984?
+229?TWTR?"Twitter, Inc."?40.72?32560119808?
+230?ROST?"Ross Stores, Inc."?92.06?32527556608?
+231?DXCM?"DexCom, Inc."?334.74?32443668480?
+232?HAL?Halliburton Company?36.1?32313688064?
+233?WEC?"WEC Energy Group, Inc."?102.09?32202758144?
+234?OTIS?Otis Worldwide Corporation?75.11?31904399360?
+235?ABC?AmerisourceBergen Corporation?152.89?31821453312?
+236?ODFL?"Old Dominion Freight Line, Inc."?273.12?31411804160?
+237?BF-B?Brown Forman Inc?66.8?31229935616?
+238?TDG?Transdigm Group Incorporated?563.81?31149881344?
+239?DFS?Discover Financial Services?104.9?30743672832?
+240?ES?Eversource Energy (D/B/A)?89.34?30715627520?
+241?IDXX?"IDEXX Laboratories, Inc."?362.18?30710546432?
+242?GLW?Corning Incorporated?35.54?30330120192?
+243?FAST?Fastenal Company?52.69?30305337344?
+244?BKR?Baker Hughes Company?34.11?29674608640?
+245?AMP?"Ameriprise Financial, Inc."?261.61?29271541760?
+246?BIIB?Biogen Inc.?199.11?29247862784?
+247?EBAY?eBay Inc.?46.65?29203085312?
+248?PCAR?PACCAR Inc.?83.75?29076072448?
+249?PPG?"PPG Industries, Inc."?122.36?29048385536?
+250?WY?Weyerhaeuser Company?38.71?28995530752?
+251?AVB?"AvalonBay Communities, Inc."?207.21?28955731968?
+252?HRL?Hormel Foods Corporation?53.21?28870148096?
+253?MTD?"Mettler-Toledo International, I"?1255.11?28849582080?
+254?OKE?"ONEOK, Inc."?64.65?28829827072?
+255?CMI?Cummins Inc.?201.12?28766595072?
+256?RMD?ResMed Inc.?196.86?28687032320?
+257?VRSK?"Verisk Analytics, Inc."?176.21?28398180352?
+258?EQR?Equity Residential?74.96?28111198208?
+259?AME?"AMETEK, Inc."?121.04?27999578112?
+260?TROW?"T. Rowe Price Group, Inc."?121.96?27952988160?
+261?CERN?Cerner Corporation?94.21?27529199616?
+262?CBRE?CBRE Group Inc?80.8?27041011712?
+263?MKC?"McCormick & Company, Incorporat"?100.27?26806581248?
+264?ALB?Albemarle Corporation?228.82?26766448640?
+265?AWK?"American Water Works Company, I"?146.48?26591684608?
+266?CPRT?"Copart, Inc."?111.96?26555568128?
+267?APTV?Aptiv PLC?98.13?26545537024?
+268?LVS?Las Vegas Sands Corp.?34.68?26495174656?
+269?SIVB?SVB Financial Group?449.28?26367074304?
+270?ARE?Alexandria Real Estate Equities?166.45?25793757184?
+271?LUV?Southwest Airlines Company?42.99?25446641664?
+272?FRC?FIRST REPUBLIC BANK?141.42?25354625024?
+273?STT?State Street Corporation?69.21?25305182208?
+274?DTE?DTE Energy Company?129.81?25147703296?
+275?KEYS?Keysight Technologies Inc.?136.67?25016350720?
+276?K?Kellogg Company?73.01?24905392128?
+277?EIX?Edison International?65.46?24868777984?
+278?NDAQ?"Nasdaq, Inc."?147.49?24663574528?
+279?GWW?"W.W. Grainger, Inc."?477.33?24592039936?
+280?FITB?Fifth Third Bancorp?35.97?24549740544?
+281?CHD?"Church & Dwight Company, Inc."?98.15?24537499648?
+282?DAL?"Delta Air Lines, Inc."?38.33?24531738624?
+283?DHI?"D.R. Horton, Inc."?68.53?24409083904?
+284?FE?FirstEnergy Corp.?42.51?24238692352?
+285?CTRA?Coterra Energy Inc.?29.78?24228352000?
+286?EFX?"Equifax, Inc."?198.19?24179576832?
+287?FANG?"Diamondback Energy, Inc. - Comm"?133.43?24174180352?
+288?ZBH?"Zimmer Biomet Holdings, Inc."?115.07?24039043072?
+289?AEE?Ameren Corporation?93.11?23985694720?
+290?EXR?Extra Space Storage Inc?178.96?23961313280?
+291?HIG?Hartford Financial Services Gro?69.55?23671552000?
+292?ROK?"Rockwell Automation, Inc."?203.82?23645769728?
+293?ETR?Entergy Corporation?117.17?23548942336?
+294?LH?Laboratory Corporation of Ameri?244.62?23410132992?
+295?LEN?Lennar Corporation?76.76?23257896960?
+296?MOS?Mosaic Company (The)?62.29?23072837632?
+297?CDW?CDW Corporation?169.34?22983333888?
+298?TSCO?Tractor Supply Company?201.85?22973558784?
+299?WST?"West Pharmaceutical Services, I"?304.97?22592083968?
+300?VMC?Vulcan Materials Company (Holdi?168.02?22297094144?
+301?CF?"CF Industries Holdings, Inc."?103.86?22275375104?
+302?ANSS?"ANSYS, Inc."?254.57?22211997696?
+303?VTR?"Ventas, Inc."?55.01?21958670336?
+304?MTCH?"Match Group, Inc."?77.51?21941917696?
+305?ALGN?"Align Technology, Inc."?275.52?21725605888?
+306?NTRS?Northern Trust Corporation?104.15?21627891712?
+307?STE?STERIS plc (Ireland)?216.18?21622972416?
+308?PPL?PPL Corporation?28.77?21598101504?
+309?MTB?M&T Bank Corporation?166.58?21436348416?
+310?ULTA?"Ulta Beauty, Inc."?395.89?21425647616?
+311?ENPH?"Enphase Energy, Inc."?157.79?21287763968?
+312?MRO?Marathon Oil Corporation?27.0?21020499968?
+313?IT?"Gartner, Inc."?255.52?21013708800?
+314?FTV?Fortive Corporation?58.5?20976812032?
+315?URI?"United Rentals, Inc."?288.44?20881440768?
+316?BBY?"Best Buy Co., Inc."?86.36?20774846464?
+317?MLM?"Martin Marietta Materials, Inc."?332.84?20763191296?
+318?MAA?Mid-America Apartment Communiti?179.76?20697206784?
+319?HPE?Hewlett Packard Enterprise Comp?15.95?20630368256?
+320?LYV?"Live Nation Entertainment, Inc."?91.25?20500224000?
+321?DRE?Duke Realty Corporation?53.62?20421175296?
+322?CINF?Cincinnati Financial Corporatio?126.23?20340828160?
+323?CMS?CMS Energy Corporation?69.45?20119455744?
+324?EXPE?"Expedia Group, Inc."?131.78?19968360448?
+325?MPWR?"Monolithic Power Systems, Inc."?431.67?19896965120?
+326?SWK?"Stanley Black & Decker, Inc."?121.61?19826442240?
+327?RJF?"Raymond James Financial, Inc."?94.99?19583328256?
+328?AMCR?Amcor plc?12.77?19578583040?
+329?WAT?Waters Corporation?320.42?19557251072?
+330?CNP?"CenterPoint Energy, Inc (Holdin"?31.03?19513712640?
+331?GRMN?Garmin Ltd.?101.36?19493758976?
+332?CLX?Clorox Company (The)?158.28?19446755328?
+333?ESS?"Essex Property Trust, Inc."?296.28?19284213760?
+334?HBAN?Huntington Bancshares Incorpora?13.05?19242747904?
+335?GPC?Genuine Parts Company?134.78?19195637760?
+336?HOLX?"Hologic, Inc."?76.28?19178393600?
+337?DOV?Dover Corporation?132.83?19125526528?
+338?FLT?"FleetCor Technologies, Inc."?233.59?18967181312?
+339?RF?Regions Financial Corporation?19.88?18951266304?
+340?EXPD?Expeditors International of Was?111.59?18903791616?
+341?PKI?"PerkinElmer, Inc."?148.61?18754582528?
+342?TDY?Teledyne Technologies Incorpora?400.95?18706403328?
+343?VFC?V.F. Corporation?47.59?18692495360?
+344?FOXA?Fox Corporation?33.8?18621906944?
+345?FOX?Fox Corporation?31.24?18602921984?
+346?PFG?Principal Financial Group Inc?70.02?18560129024?
+347?JBHT?"J.B. Hunt Transport Services, I"?176.44?18528669696?
+348?IP?International Paper Company?47.79?18507298816?
+349?SYF?Synchrony Financial?33.55?18360539136?
+350?VRSN?"VeriSign, Inc."?165.11?18340087808?
+351?WDC?Western Digital Corporation?58.45?18214365184?
+352?EPAM?"EPAM Systems, Inc."?319.25?18107731968?
+353?ZBRA?Zebra Technologies Corporation?336.86?18002302976?
+354?STX?Seagate Technology Holdings PLC?80.71?17968951296?
+355?IR?Ingersoll Rand Inc.?43.65?17791084544?
+356?BXP?"Boston Properties, Inc."?112.71?17606090752?
+357?TER?"Teradyne, Inc."?107.35?17498478592?
+358?KEY?KeyCorp?18.62?17336299520?
+359?PAYC?"Paycom Software, Inc."?288.56?17321043968?
+360?MOH?Molina Healthcare Inc?295.89?17279977472?
+361?J?Jacobs Engineering Group Inc.?133.08?17227606016?
+362?CAG?"ConAgra Brands, Inc."?35.89?17216073728?
+363?SWKS?"Skyworks Solutions, Inc."?103.48?17114248192?
+364?MGM?MGM Resorts International?36.15?16952904704?
+365?CTLT?"Catalent, Inc."?98.18?16807237632?
+366?ROL?"Rollins, Inc."?34.05?16754268160?
+367?DGX?Quest Diagnostics Incorporated?136.39?16731642880?
+368?CCL?Carnival Corporation?14.28?16647052288?
+369?DRI?"Darden Restaurants, Inc."?128.07?16621565952?
+370?TRMB?Trimble Inc.?65.92?16546447360?
+371?INCY?Incyte Corporation?74.9?16544737280?
+372?POOL?Pool Corporation?411.16?16482582528?
+373?OMC?Omnicom Group Inc.?77.01?16369169408?
+374?BRO?"Brown & Brown, Inc."?57.9?16352524288?
+375?BR?"Broadridge Financial Solutions,"?139.34?16243978240?
+376?PEAK?"Healthpeak Properties, Inc."?30.08?16215285760?
+377?WAB?Westinghouse Air Brake Technolo?86.79?16214194176?
+378?COO?"The Cooper Companies, Inc."?327.79?16195448832?
+379?CFG?"Citizens Financial Group, Inc."?37.94?16170027008?
+380?PWR?"Quanta Services, Inc."?112.57?16041113600?
+381?AKAM?"Akamai Technologies, Inc."?98.67?16031901696?
+382?L?Loews Corporation?63.15?16020145152?
+383?NTAP?"NetApp, Inc."?71.21?15828416512?
+384?RCL?D/B/A Royal Caribbean Cruises L?61.63?15702708224?
+385?CAH?"Cardinal Health, Inc."?55.61?15670231040?
+386?SJM?J.M. Smucker Company (The) New?144.23?15629195264?
+387?EVRG?"Evergy, Inc."?67.61?15611081728?
+388?CE?Celanese Corporation Celanese C?142.52?15516295168?
+389?CPB?Campbell Soup Company?50.55?15252854784?
+390?IRM?Iron Mountain Incorporated (Del?52.33?15152152576?
+391?XYL?Xylem Inc.?83.91?15131070464?
+392?UDR?"UDR, Inc."?48.78?15082091520?
+393?BIO?"Bio-Rad Laboratories, Inc."?502.11?15016100864?
+394?ATO?Atmos Energy Corporation?112.96?14990356480?
+395?NVR?"NVR, Inc."?4293.57?14953430016?
+396?CPT?Camden Property Trust?145.99?14919740416?
+397?LKQ?LKQ Corporation?51.09?14892275712?
+398?KMX?CarMax Inc?91.66?14837188608?
+399?FMC?FMC Corporation?116.77?14800713728?
+400?PKG?Packaging Corporation of Americ?155.4?14761569280?
+401?TYL?"Tyler Technologies, Inc."?358.36?14684266496?
+402?LNT?Alliant Energy Corporation?58.44?14631096320?
+403?TECH?Bio-Techne Corp?367.77?14451632128?
+404?HWM?Howmet Aerospace Inc.?33.79?14435695616?
+405?AVY?Avery Dennison Corporation?174.29?14430444544?
+406?KIM?Kimco Realty Corporation?23.25?14331952128?
+407?GNRC?Generac Holdlings Inc.?226.49?14289254400?
+408?LDOS?"Leidos Holdings, Inc."?101.64?14264056832?
+409?HST?Host Hotels?19.9?14209296384?
+410?IEX?IDEX Corporation?186.17?14154784768?
+411?FDS?FactSet Research Systems Inc.?371.81?14053377024?
+412?UAL?"United Airlines Holdings, Inc."?43.27?14011129856?
+413?TXT?Textron Inc.?63.36?13966128128?
+414?NLOK?NortonLifeLock Inc.?23.95?13933032448?
+415?EMN?Eastman Chemical Company?103.05?13854042112?
+416?CHRW?"C.H. Robinson Worldwide, Inc."?105.79?13751324672?
+417?AES?The AES Corporation?20.24?13517486080?
+418?MAS?Masco Corporation?55.37?13515097088?
+419?VTRS?Viatris Inc.?11.08?13400040448?
+420?AAP?Advance Auto Parts Inc.?211.21?13170041856?
+421?BBWI?"Bath & Body Works, Inc."?51.01?13146449920?
+422?TFX?Teleflex Incorporated?278.46?13044458496?
+423?JKHY?"Jack Henry & Associates, Inc."?175.43?12989011968?
+424?PTC?PTC Inc.?109.55?12912877568?
+425?HAS?"Hasbro, Inc."?92.1?12704919552?
+426?TTWO?"Take-Two Interactive Software, "?109.93?12674928640?
+427?IPG?"Interpublic Group of Companies,"?32.12?12647410688?
+428?BEN?"Franklin Resources, Inc."?25.09?12590036992?
+429?DPZ?Domino's Pizza Inc?340.94?12396681216?
+430?CTXS?"Citrix Systems, Inc."?99.15?12366285824?
+431?NDSN?Nordson Corporation?211.97?12331694080?
+432?SBNY?Signature Bank?201.2?12199238656?
+433?SEDG?"SolarEdge Technologies, Inc."?232.25?12197653504?
+434?TAP?Molson Coors Beverage Company?55.93?12161811456?
+435?WRK?Westrock Company?46.21?12157296640?
+436?NI?NiSource Inc?30.32?11906814976?
+437?CRL?Charles River Laboratories Inte?235.81?11900010496?
+438?WRB?W.R. Berkley Corporation?67.33?11893171200?
+439?LUMN?"Lumen Technologies, Inc."?11.59?11866885120?
+440?CZR?"Caesars Entertainment, Inc."?54.99?11755432960?
+441?ETSY?"Etsy, Inc."?92.08?11673994240?
+442?CBOE?"Cboe Global Markets, Inc."?109.38?11664611328?
+443?SNA?Snap-On Incorporated?216.49?11589792768?
+444?HSIC?"Henry Schein, Inc."?83.51?11580665856?
+445?ABMD?"ABIOMED, Inc."?254.16?11575716864?
+446?QRVO?"Qorvo, Inc."?104.81?11552472064?
+447?WHR?Whirlpool Corporation?182.96?11113558016?
+448?DISH?DISH Network Corporation?20.86?11030809600?
+449?RE?"Everest Re Group, Ltd."?280.02?11024106496?
+450?PHM?"PulteGroup, Inc."?42.53?10768000000?
+451?AAL?"American Airlines Group, Inc."?16.58?10735781888?
+452?NWSA?News Corporation?17.84?10597406720?
+453?NWS?News Corporation?17.95?10573807616?
+454?RHI?Robert Half International Inc.?93.49?10408241152?
+455?NRG?"NRG Energy, Inc."?42.29?10354241536?
+456?AIZ?"Assurant, Inc."?181.62?10348107776?
+457?FFIV?"F5, Inc."?168.57?10321440768?
+458?DVA?DaVita Inc.?100.05?10195095552?
+459?ALLE?Allegion plc?112.78?10115903488?
+460?UHS?"Universal Health Services, Inc."?124.66?10019783680?
+461?MKTX?"MarketAxess Holdings, Inc."?263.38?10015419392?
+462?CMA?Comerica Incorporated?76.26?10001423360?
+463?JNPR?"Juniper Networks, Inc."?30.46?9905012736?
+464?LNC?Lincoln National Corporation?54.09?9774548992?
+465?GL?Globe Life Inc.?96.18?9712159744?
+466?NWL?Newell Brands Inc.?22.69?9652326400?
+467?FBHS?"Fortune Brands Home & Security,"?69.65?9453873152?
+468?MHK?"Mohawk Industries, Inc."?139.38?9440542720?
+469?AOS?A.O. Smith Corporation?60.01?9361980416?
+470?LW?"Lamb Weston Holdings, Inc."?63.53?9279699968?
+471?SEE?Sealed Air Corporation?62.4?9244996608?
+472?BWA?BorgWarner Inc.?38.4?9207206912?
+473?NLSN?Nielsen N.V.?25.14?9023424512?
+474?FRT?Federal Realty Investment Trust?115.97?9021248512?
+475?OGN?Organon & Co.?34.94?8859036672?
+476?TPR?"Tapestry, Inc."?31.51?8669756416?
+477?CDAY?Ceridian HCM Holding Inc.?56.4?8535069184?
+478?ZION?Zions Bancorporation N.A.?53.56?8380158976?
+479?XRAY?DENTSPLY SIRONA Inc.?38.23?8357345792?
+480?PNR?Pentair plc.?50.02?8277209600?
+481?PNW?Pinnacle West Capital Corporati?73.24?8262863360?
+482?IVZ?Invesco Ltd?17.84?8227933184?
+483?HII?"Huntington Ingalls Industries, "?203.78?8163630592?
+484?WYNN?"Wynn Resorts, Limited"?66.27?7664655360?
+485?DXC?DXC Technology Company?29.67?7483931136?
+486?RL?Ralph Lauren Corporation?99.93?7356547072?
+487?NCLH?Norwegian Cruise Line Holdings ?16.22?6761988096?
+488?VNO?Vornado Realty Trust?34.64?6639829504?
+489?ALK?"Alaska Air Group, Inc."?46.15?5819146240?
+490?PENN?"Penn National Gaming, Inc."?31.31?5307483136?
+491?IPGP?IPG Photonics Corporation?98.4?5245595648?
+492?UA?"Under Armour, Inc."?10.14?5234024960?
+493?UAA?"Under Armour, Inc."?11.04?4831059968?
+494?PVH?PVH Corp.?67.95?4754977792?
